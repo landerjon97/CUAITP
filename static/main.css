@@ -70,9 +70,9 @@
    text-decoration: none; }
    a:visited {
      color: #1756a9; }
-   a:hover {
-     color: #111;
-     text-decoration: underline; }
+a:hover {
+  color: #111;
+  text-decoration: underline; }
  
  /**
   * Blockquotes
